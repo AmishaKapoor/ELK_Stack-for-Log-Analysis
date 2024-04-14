@@ -1,0 +1,12 @@
+Setup Process 
+The steps followed to complete the ELK stack for log analysis and monitoring project include:
+1.	Set up KaliLinux VM on Virtual Box.
+2.	Installing Dependencies- OpenJDK.
+3.	Installing, configuring, starting, and testing Elasticsearch.
+4.	Installing, configuring, starting, and testing Kibana.
+5.	Integrating Kibana with Elasticsearch.
+6.	Installing, configuring, starting, and testing Logstash.
+7.	Install Filebeat, a lightweight plugin used to collect and ship log files to Logstash. It is the most used Beats module.
+8.	Configuring and enabling the Filebeat system module, which will examine local system logs.
+9.	Verify Elasticsearch Reception of Data.
+10.	Lookup the visuals and analyze the logs on Kibana interface.
